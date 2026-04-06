@@ -1,8 +1,8 @@
 # Traffic Accident Analysis
 
-The project was developed as part of academic coursework for the course *Business Data Processing and Business Intelligence* (MSc. in Business Administration and Data Science).
+This is an end-to-end academic project covering data processing, analysis, modeling, and visualization. The goal is to derive insights from traffic accident data through a complete analytical workflow.
 
-The goal is to analyze traffic accident patterns in Los Angeles and identify how factors such as time, weather, and road infrastructure relate to accident frequency and severity.
+The project was developed as part of academic coursework for the course *Business Data Processing and Business Intelligence* (MSc. in Business Administration and Data Science).
 
 # **Link**
 View the LA Traffic Accident Dashboard <a href="https://public.tableau.com/app/profile/giorgos.tzimas7837/viz/LosAngelesTrafficAccidentsDashboard/DashboardMain" style="text-decoration: underline;">**here**</a>
@@ -49,8 +49,7 @@ The project has the following analytical workflow:
 
 ## Dashboard Overview
 
-
-
+![Overview](images/dashboard_overview.png)
 
 
 ## Results
@@ -64,6 +63,19 @@ The project has the following analytical workflow:
 - Road segments with **exit** features have the **highest** accident frequency, while combinations of exit, railway, and station features are associated with the **highest** severity  
 - The dashboard enables interactive exploration of these spatial, temporal, environmental, and infrastructural patterns
 
+
+## Project Structure
+
+LA-Traffic-Accidents_Analytics/
+│
+├── images/
+│ ├── dashboard_overview.png
+│
+├── README.md
+├── traffic_accident_python_eda.ipynb
+├── traffic_accident_report.pdf
+├── traffic_accident_sql_preprocessing.sql
+└── traffic_accident_tableau_dashboard.twbx
 
 ## Limitations
 
