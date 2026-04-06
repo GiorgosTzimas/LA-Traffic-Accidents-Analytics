@@ -5,7 +5,7 @@ This is an end-to-end academic project covering data processing, analysis, model
 The project was developed as part of academic coursework for the course *Business Data Processing and Business Intelligence* (MSc. in Business Administration and Data Science).
 
 # **Link**
-View the LA Traffic Accident Dashboard <a href="https://public.tableau.com/app/profile/giorgos.tzimas7837/viz/LosAngelesTrafficAccidentsDashboard/DashboardMain" style="text-decoration: underline;">**here**</a>
+View the interactive dashboard <a href="https://public.tableau.com/app/profile/giorgos.tzimas7837/viz/LosAngelesTrafficAccidentsDashboard/DashboardMain" style="text-decoration: underline;">**here**</a>
 
 ## Project Background
 
@@ -66,6 +66,7 @@ The project has the following analytical workflow:
 
 ## Project Structure
 
+```
 LA-Traffic-Accidents_Analytics/
 │
 ├── images/
@@ -76,6 +77,7 @@ LA-Traffic-Accidents_Analytics/
 ├── traffic_accident_report.pdf
 ├── traffic_accident_sql_preprocessing.sql
 └── traffic_accident_tableau_dashboard.twbx
+```
 
 ## Limitations
 
